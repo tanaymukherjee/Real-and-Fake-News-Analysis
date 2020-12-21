@@ -27,8 +27,8 @@ Before we could begin our analysis, we needed to properly format our dataset. Fi
 
 
 ### Methods & Model Evaluation:
-Part 1: Topic Modeling
-Part 2: Text Classification
+- Part 1: Topic Modeling
+- Part 2: Text Classification
 
 
 ### Conclusion and Practical Implications:
