@@ -46,5 +46,6 @@ As information shapes how we view the world and influences our decision making, 
 6. Trang Le
 7. Xinyi Li
 
-## Submission to:
+
+### Submission to:
 Prof. Chaoqun Deng
